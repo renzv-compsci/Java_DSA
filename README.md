@@ -9,6 +9,7 @@ This repository is dedicated to practicing and mastering DSA concepts using Java
 
 - [📖 About This Repo](#-about-this-repo)
 - [🗺️ Lessons & Roadmap](#-lessons--roadmap)
+- [📋 Study Reference Table](#-study-reference-table)
 - [🛠️ How to Use This Repo](#-how-to-use-this-repo)
 - [🏆 Practice & Projects](#-practice--projects)
 - [🔗 Resources](#-resources)
@@ -75,6 +76,39 @@ Each topic will have its directory with code samples, explanations, and exercise
 - 📚 Java Collections Framework (deep dive)
 - 🌳 More on Trees and Graphs
 - 📊 Algorithmic complexity & Big O notation
+
+---
+
+## 📋 Study Reference Table
+
+Here’s a structured overview of the topics covered in this journey—use it as a checklist and reference:
+
+| Order | Data Structure / Algorithm | Key Concepts & Examples                                     |
+|-------|----------------------------|-------------------------------------------------------------|
+| 1     | Java Basics                | Variables, data types, control flow, OOP basics             |
+| 2     | Arrays                     | Traversing, searching, sorting, implementation              |
+| 3     | Strings                    | Manipulation, searching, substring, palindrome              |
+| 4     | ArrayLists & Collections   | ArrayList, LinkedList, Stack, Queue, Set, Map               |
+| 5     | Linked Lists               | Singly/doubly, insert, delete, search                       |
+| 6     | Stacks & Queues            | Stack (LIFO), Queue (FIFO), Deque, applications             |
+| 7     | Recursion                  | Base/recursive cases, call stack, applications              |
+| 8     | Searching Algorithms       | Linear search, binary search                                |
+| 9     | Sorting Algorithms         | Bubble, selection, insertion, merge, quick sort             |
+| 10    | Trees                      | Binary tree, BST, traversals, heap basics                   |
+| 11    | Tree Algorithms            | Traversals (preorder, inorder, postorder), insert, delete   |
+| 12    | Hashing                    | HashMap, HashSet, custom hash functions                     |
+| 13    | Graphs                     | Representation, BFS, DFS, shortest path                     |
+| 14    | Graph Algorithms           | BFS, DFS, Dijkstra, Kruskal, Prim, Topological sort         |
+| 15    | Greedy Algorithms          | Activity selection, coin change, interval scheduling        |
+| 16    | Divide & Conquer           | Merge sort, quick sort, binary search, closest pair         |
+| 17    | Dynamic Programming        | Fibonacci, knapsack, LIS, coin change, tabulation/memoization |
+| 18    | Backtracking               | N-Queens, Sudoku solver, permutations, subsets              |
+| 19    | Advanced Topics            | Tries, segment tree, union-find, bit manipulation           |
+| 20    | Problem Solving Practice   | LeetCode, HackerRank, projects, interview prep              |
+
+---
+
+> 📌 **Use this table as a quick reference and checklist on your Java DSA journey!**
 
 ---
 
