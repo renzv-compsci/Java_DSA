@@ -1,5 +1,7 @@
 package dsa.Java_Array.ArrayLesson;
 
+// Write a method to reverse the array in place (no new array)
+
 import java.util.Arrays;
 
 public class ArrayReverse {

@@ -1,5 +1,6 @@
 package dsa.Java_Array.ArrayLesson;
 
+// Calculate and print the sum of all elements
 public class ArraySum {
     public static void main (String[] args) {
 
