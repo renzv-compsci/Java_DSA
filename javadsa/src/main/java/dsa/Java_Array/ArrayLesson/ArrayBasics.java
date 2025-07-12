@@ -5,11 +5,7 @@ package dsa.Java_Array.ArrayLesson;
 // First DSA Problem
 /* 1. Declare and initialize an array with at least 6 integers
    2. Print all the elements, SEPERATED by spaces
-   3. Find and Print the maximum value in the array
-   4. Calculate and print the sum of all elements
-   5. Write a method to reverse the array in place (no new array)
  */
-
 public class ArrayBasics {
     public static void main(String[] args) {
 
